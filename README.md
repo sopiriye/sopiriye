@@ -52,8 +52,9 @@ I am open to collaborating on:
 
 - Backend Systems
 - Infrastructure & Scalable Architectures
-- FinTech / Investment Tools
+- FinTech Products / Investment Tools
 - Business-driven Software Products
+- Blockchain Projects
 
 I am particularly interested in projects that:
 
@@ -75,8 +76,8 @@ I am particularly interested in projects that:
 ## 📫 Reach Me
 
 - 📧 Email: sopiriyerobinson@outlook.com  
-- 💼 LinkedIn: [Link]  
-- 🐦 X: [Link]  
+- LinkedIn: https://www.linkedin.com/in/sopiriye-robinson/ 
+- X: https://x.com/majordev_ 
 - 🌐 Portfolio: Coming Soon  
 
 ---
