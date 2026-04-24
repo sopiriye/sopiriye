@@ -76,8 +76,8 @@ I am particularly interested in projects that:
 ## 📫 Reach Me
 
 - 📧 Email: sopiriyerobinson@outlook.com  
-- LinkedIn: https://www.linkedin.com/in/sopiriye-robinson/ 
-- X: https://x.com/majordev_ 
+- LinkedIn: linkedin.com/in/sopiriye-robinson/ 
+- X: x.com/majordev_
 - 🌐 Portfolio: Coming Soon  
 
 ---
