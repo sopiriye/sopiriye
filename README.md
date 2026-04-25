@@ -78,7 +78,7 @@ I am particularly interested in projects that:
 - 📧 Email: sopiriyerobinson@outlook.com  
 - LinkedIn: linkedin.com/in/sopiriye-robinson/ 
 - X: x.com/majordev_
-- 🌐 Portfolio: Coming Soon  
+- 🌐 Portfolio: sopiriye-robinson.vercel.app
 
 ---
 
