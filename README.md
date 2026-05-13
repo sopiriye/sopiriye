@@ -1,4 +1,4 @@
-# Reagan Robinson
+# Sopiriye Robinson
 
 Backend Software Engineer | Systems Thinker | Finance & Technology
 
