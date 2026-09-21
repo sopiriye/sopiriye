@@ -84,7 +84,7 @@ I am particularly interested in projects that:
 
 ## ⚡ Fun Fact
 
-I am highly active on X, constantly learning across domains in **focused chunks**, and I prefer to **strategize deeply before taking action**.
+I am active on X, constantly learning across domains in **focused chunks**, and I prefer to **strategize deeply before taking action**.
 
 ---
 
