@@ -6,7 +6,7 @@ Backend Software Engineer | Systems Thinker | Finance & Technology
 
 ## 🚀 About Me
 
-I am a **Backend Software Engineer** with over **2 years of experience**, operating at the intersection of **Business, Finance, and Technology**.
+I am a **Backend Software Engineer**, operating at the intersection of **Business, Finance, and Technology**.
 
 I focus on building **scalable backend systems and infrastructure** that deliver **real economic and practical value**.
 
